@@ -1,0 +1,23 @@
+{
+  "name": "api-3-estoque",
+  "version": "1.0.0",
+  "description": "Começando o estoque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvelynMantovani/API-3-ESTOQUE.git"
+  },
+  "author": "EvelynMantovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvelynMantovani/API-3-ESTOQUE/issues"
+  },
+  "homepage": "https://github.com/EvelynMantovani/API-3-ESTOQUE#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
